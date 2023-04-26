@@ -1,0 +1,12 @@
+
+button{
+    margin-top: 20px;
+}
+label{
+color: white;
+}
+
+.control.invalid input{
+    border-color: red;
+    background: #fbdada;
+}
